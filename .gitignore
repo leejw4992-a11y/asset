@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 가상환경
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 환경변수 / 비밀정보
+.env
+
+# KAMP 원본 데이터셋 및 가이드북 (재배포 제한 가능성 → 커밋하지 않음)
+data/
+*.pdf
+
+# 모델 산출물
+*.joblib
+*.pkl

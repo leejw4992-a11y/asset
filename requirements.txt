@@ -1,0 +1,10 @@
+# 실행본 환경(Windows, Python 3.11/3.12)에서 기록된 버전. environment.json과 일치해야 한다.
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+scikit-learn==1.5.2
+matplotlib==3.9.2
+joblib==1.6.0
+threadpoolctl>=3.1
+ipykernel
+jupyterlab
